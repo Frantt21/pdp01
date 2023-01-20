@@ -4,13 +4,21 @@
 body{
 	background-image: url('background.png');
 	background-size: 100%;
+	background-repeat: no-repeat;
 	text-align: center;
+}
+
+div{
+	background-image: url('https://img.pikbest.com/backgrounds/20190312/black-and-white-modern-minimalist-style-geometric-line-banner-background_2751856.jpg!w700wp');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
 }
 
 h1{
 	display: inline-block;
 	position: relative;
-	color: skyblue;
+	color: ghostwhite;
 	font-size: 40px;
 	font-family: 'Roboto Condensed', sans-serif;
 }
