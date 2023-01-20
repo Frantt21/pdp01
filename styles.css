@@ -1,0 +1,14 @@
+@font-face{
+
+}
+
+body{
+	background-image: url('background.png');
+	background-size: 100%;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 120px;
+}
